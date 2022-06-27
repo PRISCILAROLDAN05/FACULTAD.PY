@@ -1,0 +1,22 @@
+print("Facultad de Buenos Aires") 
+print("Bienvenidos a nuestra app") 
+dato=input("a cual area pertenece? Seleccione entre: Servicios, Profesores o Alumnos:     ")
+if dato=="Servicios": 
+  print = input ("Ingrese Nombre/apellido:")
+  print = input ("Ingrese Estado civil:") 
+  print = input ("Ingrese su departamento: ") 
+  print = input ("Ingrese Id:") 
+  print = input ("Año de incorporacion:") 
+  print = input ("Numero de despacho:") 
+elif dato== "Profesores": 
+  print = input ("Ingrese Nombre/apellido:") 
+  print = input ("Ingrese Estado civil:") 
+  print = input ("Ingrese su departamento: ") 
+  print = input ("Ingrese Id:") 
+  print = input ("Año de incorporacion:") 
+  print = input ("Numero de despacho:") 
+else: 
+  print = input ("Ingrese Nombre/apellido:") 
+  print = input ("Ingrese Estado civil:")
+  print = input ("Ingrese curso matriculado:")
+  print = input ("Ingrese su Id: ") 
